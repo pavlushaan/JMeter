@@ -1,1 +1,1 @@
-### This is example of report for test: [test repor](https://pages.github.com/)
+### This is example of report for test: [test report](https://pages.github.com/)
